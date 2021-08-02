@@ -1,5 +1,5 @@
 # Git Example
-This here is a repo for typing out git and github.
+This here is a repo for trying out git and github.
 
 ## What is git?
 Git is a **version control** software. It maintains different versions of our code/project as well as a history of our changes.
